@@ -1,9 +1,9 @@
 # KRAYA-Full-Stack-Travel-Website-
 
-Seconded from university to R&D centre and educational institute that acts as project consultancy. Outplacement focused mainly on the database and back-end of a project titled Kraya, which is a travel website.
+✵ Designed and developed interactive web applications using JavaScript enhancing user experience by 40%. 
 
-Employed within team of four to ensure proper development of database for specific project. Identified correct tools and technologies to be used, carried out integration, validation and browser tests both front- and back-end.
+✵ Implemented database and integrated third-party services, ensuring seamless data flow between systems. 
 
-Highlights: 
+✵ Conducted code reviews, improving code quality and team productivity. 
 
-✽ Assigned to the database of Kraya travel website; designed Navigation Bar, Banner, About us and Footer in front-end development that was subsequently submitted to company panel for administrator’s approval.
+✵ Collaborated with a diverse team to deliver high-quality software solutions on time.
